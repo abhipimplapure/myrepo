@@ -1,0 +1,5 @@
+Mention a file name and that file will not be commited, it will ignore the mentioned file
+
+app.log
+styles.css
+*.log //all log files will be ingored
